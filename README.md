@@ -2,7 +2,7 @@
 
 ### Links
 
-- Live Site URL: https://github.com/TSharma95/BlogrLandingPageTemplate/
+- Live Site URL: https://tsharma95.github.io/BlogrLandingPageTemplate/
 
 ## Table of contents
 
