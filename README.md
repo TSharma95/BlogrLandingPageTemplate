@@ -1,6 +1,8 @@
-# Blogr landing page - Frontend Mentor 
+# Blogr landing page - Frontend Mentor(reference)
 
-This is a solution to the [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP).
+### Links
+
+- Live Site URL: https://github.com/TSharma95/BlogrLandingPageTemplate/
 
 ## Table of contents
 
@@ -12,7 +14,6 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-- [Author](#author)
 
 ## Overview
 
@@ -31,11 +32,6 @@ Additional features:
 ### Screenshot
 
 ![Blogr landing](./design/desktop-preview.jpg)
-
-### Links
-
-- Solution URL: [github](https://github.com/denielden/sass-blogr-landing)
-- Live Site URL: [live site](https://denielden.github.io/sass-blogr-landing)
 
 ## My process
 
@@ -64,6 +60,6 @@ Open to feedback on how to fix it :)
 ## Author
 
 - Reference
-- Frontend Mentor - [@denielden](https://www.frontendmentor.io/profile/denielden)
+- Frontend Mentor
 
 ## **Have fun building!** 🚀
